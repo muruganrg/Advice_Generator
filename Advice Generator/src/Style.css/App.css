@@ -1,0 +1,10 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: hsl(218, 23%, 16%);
+  color: aliceblue;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  font-family: Manrope, "Times New Roman", Times, serif;
+}
